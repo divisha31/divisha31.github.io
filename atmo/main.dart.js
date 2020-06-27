@@ -25068,7 +25068,7 @@ O:function(a){return new S.po(new Y.pg(null),X.Zx(C.S),null)}}
 G.j6.prototype={
 aI:function(){return new G.AU(C.p)}}
 G.AU.prototype={
-O:function(a){var t=null,s=S.nZ(t,t,t,t,t,X.XU(t,C.kf,new L.kO("images/city_background.png")),C.a4),r=S.Xy(),q=N.Ib(L.Vr(C.vn,50),new G.PQ(a)),p=A.r1(t,t,C.r,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)
+O:function(a){var t=null,s=S.nZ(t,t,t,t,t,X.XU(t,C.kf,new L.kO("images/city_background.jpg")),C.a4),r=S.Xy(),q=N.Ib(L.Vr(C.vn,50),new G.PQ(a)),p=A.r1(t,t,C.r,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)
 return M.VX(t,M.l4(t,Q.Zk(T.XM(H.c([new T.kG(C.nj,t,t,q,t),M.l4(t,new Z.qX(C.vv,C.yD,p,C.y4,C.y5,C.Bk,new G.PR(this),t),t,t,t,t,t,new V.au(20,20,20,20),t),N.Ib(L.mp("Get Weather",t,t,t,C.AY,t),new G.PS(this,a))],u.G),C.kp,C.lI),!0),t,r,s,t,t,t,t))}}
 G.PQ.prototype={
 $0:function(){K.xg(this.a).lE(null)},
@@ -25107,8 +25107,8 @@ M.Cc.prototype={
 aT:function(){this.bm()
 this.uq(0,this.a.c)},
 uq:function(a,b){this.b0(new M.Rd(this,b))},
-O:function(a){var t=this,s=null,r=S.nZ(s,s,s,s,s,X.XU(new H.w2(P.aS(204,255,255,255),C.kb),C.kf,new L.kO("images/location_background.png")),C.a4),q=S.Xy(),p=u.G
-return M.VX(s,M.l4(s,Q.Zk(T.XM(H.c([T.Zh(H.c([N.Ib(L.Vr(C.vm,50),new M.Rb(t)),N.Ib(L.Vr(C.oD,50),new M.Rc(t,a))],p),C.lJ,C.iF),new T.fp(new V.au(15,0,0,0),T.Zh(H.c([L.mp(H.b(t.e)+"\xb0C",s,s,s,C.AW,s),L.mp(H.b(t.r),s,s,s,C.AJ,s)],p),C.lI,C.iF),s),new T.fp(new V.au(0,0,15,0),L.mp(H.b(t.x)+" "+H.b(t.d)+" !",s,s,s,C.AX,C.cJ),s)],p),C.kq,C.lJ),!0),s,q,r,s,s,s,s))}}
+O:function(a){var t=this,s=null,r=S.nZ(s,s,s,s,s,X.XU(new H.w2(P.aS(204,255,255,255),C.kb),C.kf,new L.kO("images/location_background.jpg")),C.a4),q=S.Xy(),p=u.G
+return M.VX(s,M.l4(s,Q.Zk(T.XM(H.c([T.Zh(H.c([N.Ib(L.Vr(C.vm,50),new M.Rb(t)),N.Ib(L.Vr(C.oD,50),new M.Rc(t,a))],p),C.lJ,C.iF),new T.fp(new V.au(15,0,0,0),T.Zh(H.c([L.mp(H.b(t.e)+"\xb0C",s,s,s,C.AW,s),L.mp(H.b(t.r),s,s,s,C.AJ,s)],p),C.lI,C.iF),s),new T.fp(new V.au(0,0,15,0),L.mp(H.b(t.x)+" in  "+H.b(t.d)+" !",s,s,s,C.AX,C.cJ),s)],p),C.kq,C.lJ),!0),s,q,r,s,s,s,s))}}
 M.Rd.prototype={
 $0:function(){var t,s,r,q=this.b
 if(q==null){q=this.a
@@ -25224,18 +25224,18 @@ t=1
 break
 case 1:return P.a0(r,s)}})
 return P.a1($async$iC,s)},
-CV:function(a){if(a<300)return"\ud83c\udf29"
-else if(a<400)return"\ud83c\udf27"
+CV:function(a){if(a<300)return"\u263c"
+else if(a<400)return"\u2601\ufe0f"
 else if(a<600)return"\u2614\ufe0f"
 else if(a<700)return"\u2603\ufe0f"
 else if(a<800)return"\ud83c\udf2b"
 else if(a===800)return"\u2600\ufe0f"
 else if(a<=804)return"\u2601\ufe0f"
-else return"\ud83e\udd37\u200d"},
-CN:function(a){if(a>25)return"It's \ud83c\udf66 time"
-else if(a>20)return"Time for shorts and \ud83d\udc55"
-else if(a<10)return"You'll need \ud83e\udde3 and \ud83e\udde4"
-else return"Bring a \ud83e\udde5 just in case"}}
+else return"\u2619"},
+CN:function(a){if(a>25)return"Have a walk to enjoy Nature \u2618"
+else if(a>20)return"Best time for \u2708"
+else if(a<10)return"Have some \u2615 "
+else return"Time for some good \u260a"}}
 M.b8.prototype={
 i:function(a,b){var t,s=this
 if(!s.mH(b))return null
