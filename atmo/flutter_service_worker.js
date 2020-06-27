@@ -53,13 +53,13 @@ const RESOURCES = {
 "assets/images/location_background.jpg": "44521995eb4ce1d0aa3d4d571fa1cb6b",
 "assets/LICENSE": "345bb77c8bbf64c73d57683c9fd4b03f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "cb3a7e600e5966c3e0f843686f4c7dfc",
-"/": "cb3a7e600e5966c3e0f843686f4c7dfc",
+"favicon.png": "82fbd591cf27721a13c98165d490b9be",
+"icons/Icon-192.png": "8f4cc30f4be940f7014daa133bd99326",
+"icons/Icon-512.png": "3a4c52cbf2f8da79fa201718cfa99014",
+"index.html": "07e4e680810269002b39e6b942f9917c",
+"/": "07e4e680810269002b39e6b942f9917c",
 "main.dart.js": "5cf31741eda276a65ec8348feca14a21",
-"manifest.json": "6c7bac8a31b938f7fa2176d00c10638a"
+"manifest.json": "119d0fc86302980349712638c2b6386d"
 };
 
 self.addEventListener('activate', function (event) {
