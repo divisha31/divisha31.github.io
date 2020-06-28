@@ -59,7 +59,7 @@ const RESOURCES = {
 "index.html": "07e4e680810269002b39e6b942f9917c",
 "/": "07e4e680810269002b39e6b942f9917c",
 "main.dart.js": "5cf31741eda276a65ec8348feca14a21",
-"manifest.json": "119d0fc86302980349712638c2b6386d"
+"manifest.json": "7efd1c347e89d38c1f01d0ee8a4592a1"
 };
 
 self.addEventListener('activate', function (event) {
