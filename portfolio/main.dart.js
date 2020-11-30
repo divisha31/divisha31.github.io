@@ -49427,7 +49427,7 @@ F.Vo.prototype={
 $0:function(){K.hl(this.a,!1).cT(0)},
 $S:2}
 F.Vz.prototype={
-$0:function(){T.nB("https://www.instagram.com/invites/contact/?i=17g3x68g7kmlw&utm_content=ha5ucin")},
+$0:function(){T.nB("https://www.instagram.com/doodles_shoodle")},
 $S:2}
 F.VA.prototype={
 $0:function(){E.GY(new F.Vs(this.b,this.c),this.a,t.z)},
